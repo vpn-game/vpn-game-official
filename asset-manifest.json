@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vpn-game-official/static/css/main.e6c13ad2.css",
+    "main.js": "/vpn-game-official/static/js/main.94977df2.js",
+    "static/js/453.84719927.chunk.js": "/vpn-game-official/static/js/453.84719927.chunk.js",
+    "index.html": "/vpn-game-official/index.html",
+    "main.e6c13ad2.css.map": "/vpn-game-official/static/css/main.e6c13ad2.css.map",
+    "main.94977df2.js.map": "/vpn-game-official/static/js/main.94977df2.js.map",
+    "453.84719927.chunk.js.map": "/vpn-game-official/static/js/453.84719927.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.94977df2.js"
+  ]
+}
